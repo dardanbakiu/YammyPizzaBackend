@@ -9,3 +9,6 @@ and it contains POST request to create a new order in remotemysql.com.
 
 This repository is hosted on Heroku via the following link: https://dry-oasis-95076.herokuapp.com/
 and is baked by the front-end application hosted on: https://secure-shore-05604.herokuapp.com/
+
+Front-end Repository on Github: https://github.com/dardanbakiu/YammyPizzaFrontend 
+Back-end Repository on Github: https://github.com/dardanbakiu/YammyPizzaBackend
