@@ -1,14 +1,11 @@
-
 ## About This App
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
 Yammy Pizza is an app to order pizza online, its simple to use, you only have to 
-select products, write your full name, location and then click buy button
+select products, write your full name, location and then click buy button.
 
-## App install 
+This repository contains the back-end services requested by Yummy Pizza.
+It contains GET requests like '/api/data' to get products from remotemysql.com 
+and it contains POST request to create a new order in remotemysql.com.
 
-Pull the project and then open a bash or powershell on back-end write this command : "php artisan serve"
-go to the frontend folder, open another shell here and write "npm start" 
-
-Website will run at localhost:3000 
+This repository is hosted on Heroku via the following link: https://dry-oasis-95076.herokuapp.com/
+and is baked by the front-end application hosted on: https://secure-shore-05604.herokuapp.com/
